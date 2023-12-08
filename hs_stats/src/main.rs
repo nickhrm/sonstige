@@ -21,7 +21,7 @@ fn main() {
 
             edited_image = edited_image.crop(304, 150, 335, 250);
             edited_image = edited_image.grayscale();
-            edited_image.save("test.png").unwrap();
+            //edited_image.save("test.png").unwrap();
 
             let parsed_image = match Image::from_dynamic_image(&edited_image) {
                 Ok(img) => img,
