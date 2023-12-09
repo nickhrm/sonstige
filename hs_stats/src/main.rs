@@ -30,7 +30,8 @@ fn main() {
                     return;
                 }
             };
-            let mut output: String = rusty_tesseract::image_to_string(&parsed_image, &my_args).unwrap();
+            let mut output: String =
+                rusty_tesseract::image_to_string(&parsed_image, &my_args).unwrap();
             output = output.chars().filter(|c| !c.is_whitespace()).collect();
             println!("Bild erfolgreich abgerufen. Output: {}", output);
             write_to_csv(&output).unwrap();
@@ -59,7 +60,7 @@ fn write_to_csv(data: &str) -> Result<(), std::io::Error> {
         .write(true)
         .append(true)
         .create(true)
-        .open("output.csv")?;
+        .open("my_output/output.csv")?;
 
     writeln!(
         file,
