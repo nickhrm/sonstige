@@ -3,5 +3,11 @@
         "activityBar.background": "#1D330B",
         "titleBar.activeBackground": "#284710",
         "titleBar.activeForeground": "#F5FCF0"
-    }
+    },
+    "rust-analyzer.linkedProjects": [
+        ".\\yew_test\\Cargo.toml",
+        ".\\yew_test\\Cargo.toml",
+        ".\\yew_test\\Cargo.toml"
+    ],
+    "rust-analyzer.showUnlinkedFileNotification": false
 }
