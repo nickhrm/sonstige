@@ -1,0 +1,603 @@
+rewrite ^/1299$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Acker-Rittersporn permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-165/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Acker-Rittersporn permanent;
+rewrite ^/1297$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Acker-Vergissmeinnicht permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-163/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Acker-Vergissmeinnicht permanent;
+rewrite ^/1136$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Ackerschachtelhalm permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-2/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Ackerschachtelhalm permanent;
+rewrite ^/1269$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Ackerstiefm%C3%BCtterchen permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-135/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Ackerstiefm%C3%BCtterchen permanent;
+rewrite ^/1291$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Alant permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-157/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Alant
+permanent;
+rewrite ^/1296$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Andorn permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-162/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Andorn
+permanent;
+rewrite ^/1141$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Apfelbeere permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-7/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Apfelbeere
+permanent;
+rewrite ^/1142$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Arnika permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-8/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Arnika
+permanent;
+rewrite ^/1144$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Artischocke permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-10/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Artischocke
+permanent;
+rewrite ^/1295$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Arzneimohn permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-161/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Arzneimohn
+permanent;
+rewrite ^/1147$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Baldrian permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-13/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Baldrian
+permanent;
+rewrite ^/1149$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Beifu%C3%9F permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-15/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Beifu%C3%9F
+permanent;
+rewrite ^/1150$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Beinwell permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-16/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Beinwell
+permanent;
+rewrite ^/1303$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Benediktenkraut permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-169/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Benediktenkraut permanent;
+rewrite ^/1644$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Betonie%2C%20Echter%20Ziest permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-211/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Betonie%2C%20Echter%20Ziest permanent;
+rewrite ^/1152$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Birke permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-18/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Birke
+permanent;
+rewrite ^/1650$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Bittere%20Schleifenblume permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-217/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Bittere%20Schleifenblume permanent;
+rewrite ^/1153$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Bitters%C3%BC%C3%9Fer%20Nachtschatten permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-19/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Bitters%C3%BC%C3%9Fer%20Nachtschatten permanent;
+rewrite ^/1154$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Blutwurz permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-20/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Blutwurz
+permanent;
+rewrite ^/1155$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Bockshornklee permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-21/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Bockshornklee
+permanent;
+rewrite ^/1157$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Borretsch permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-23/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Borretsch
+permanent;
+rewrite ^/1301$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Breitwegerich permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-167/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Breitwegerich
+permanent;
+rewrite ^/1160$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Brunnenkresse permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-26/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Brunnenkresse
+permanent;
+rewrite ^/1679$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Buche permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-246/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Buche
+permanent;
+rewrite ^/1683$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Buchsbaum permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-250/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Buchsbaum
+permanent;
+rewrite ^/1304$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Currykraut permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-170/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Currykraut
+permanent;
+rewrite ^/1165$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Damaszenerrose permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-31/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Damaszenerrose
+permanent;
+rewrite ^/1325$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Deutsche%20Schwertlilie permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-191/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Deutsche%20Schwertlilie permanent;
+rewrite ^/1324$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Dornige%20Hauhechel permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-190/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Dornige%20Hauhechel permanent;
+rewrite ^/1307$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Dost%2C%20Wilder%20Majoran permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-173/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Dost%2C%20Wilder%20Majoran permanent;
+rewrite ^/1309$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Eberraute permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-175/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Eberraute
+permanent;
+rewrite ^/1182$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Echte%20Goldrute permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-48/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Echte%20Goldrute permanent;
+rewrite ^/1651$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Echtes%20Labkraut permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-218/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Echtes%20Labkraut permanent;
+rewrite ^/1168$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Efeu permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-34/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Efeu permanent;
+rewrite ^/1656$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Ehrenpreis permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-223/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Ehrenpreis
+permanent;
+rewrite ^/1688$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Eibe permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-255/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Eibe
+permanent;
+rewrite ^/1169$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Eibisch permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-35/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Eibisch
+permanent;
+rewrite ^/1284$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Eingriffeliger%20Wei%C3%9Fdorn permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-150/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Eingriffeliger%20Wei%C3%9Fdorn permanent;
+rewrite ^/1170$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Eisenhut permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-36/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Eisenhut
+permanent;
+rewrite ^/1173$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Engelwurz permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-39/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Engelwurz
+permanent;
+rewrite ^/1674$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Esche permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-241/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Esche
+permanent;
+rewrite ^/1310$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Eselsdistel permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-176/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Eselsdistel
+permanent;
+rewrite ^/1175$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Estragon permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-41/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Estragon
+permanent;
+rewrite ^/1660$ https://stadtmarketing-lehrte.de/heilpflanzengarten/F%C3%A4rberdistel%20%28Saflor%29 permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-227/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/F%C3%A4rberdistel%20%28Saflor%29 permanent;
+rewrite ^/1319$ https://stadtmarketing-lehrte.de/heilpflanzengarten/F%C3%A4rberginster permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-185/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/F%C3%A4rberginster permanent;
+rewrite ^/1313$ https://stadtmarketing-lehrte.de/heilpflanzengarten/F%C3%A4rberkamille permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-179/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/F%C3%A4rberkamille permanent;
+rewrite ^/1311$ https://stadtmarketing-lehrte.de/heilpflanzengarten/F%C3%A4rberr%C3%B6te%20\%20F%C3%A4rberkrapp
+permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-177/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/F%C3%A4rberr%C3%B6te%20/%20F%C3%A4rberkrapp permanent;
+rewrite ^/1675$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Faulbaum permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-242/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Faulbaum
+permanent;
+rewrite ^/1176$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Fenchel permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-42/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Fenchel
+permanent;
+rewrite ^/1686$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Fichte permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-253/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Fichte
+permanent;
+rewrite ^/1177$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Frauenmantel permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-43/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Frauenmantel
+permanent;
+rewrite ^/1138$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Fr%C3%BChlings-Adonisr%C3%B6schen permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-4/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Fr%C3%BChlings-Adonisr%C3%B6schen permanent;
+rewrite ^/1667$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Gamander permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-234/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Gamander
+permanent;
+rewrite ^/1178$ https://stadtmarketing-lehrte.de/heilpflanzengarten/G%C3%A4nsebl%C3%BCmchen permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-44/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/G%C3%A4nsebl%C3%BCmchen permanent;
+rewrite ^/1318$ https://stadtmarketing-lehrte.de/heilpflanzengarten/G%C3%A4nsefingerkraut permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-184/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/G%C3%A4nsefingerkraut permanent;
+rewrite ^/1672$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Gartenfuchsschwanz permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-239/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Gartenfuchsschwanz permanent;
+rewrite ^/1179$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Gartenkresse permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-45/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Gartenkresse
+permanent;
+rewrite ^/1698$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Gartenrauke permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-265/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Gartenrauke
+permanent;
+rewrite ^/1143$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Gefleckter%20Aronstab permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-9/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Gefleckter%20Aronstab permanent;
+rewrite ^/1228$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Gew%C3%B6hnliche%20Nachtkerze permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-94/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Gew%C3%B6hnliche%20Nachtkerze permanent;
+rewrite ^/1180$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Gew%C3%B6hnlicher%20Gei%C3%9Ffu%C3%9F%2C%20Giersch
+permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-46/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Gew%C3%B6hnlicher%20Gei%C3%9Ffu%C3%9F%2C%20Giersch permanent;
+rewrite ^/1172$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Gew%C3%B6hnlicher%20T%C3%BCpfelfarn%2C%20Engels%C3%BC%C3%9F
+permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-38/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Gew%C3%B6hnlicher%20T%C3%BCpfelfarn%2C%20Engels%C3%BC%C3%9F
+permanent;
+rewrite ^/1690$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Gew%C3%B6hnliches%20Greiskraut permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-257/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Gew%C3%B6hnliches%20Greiskraut permanent;
+rewrite ^/1315$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Gew%C3%B6hnliches%20Leinkraut permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-181/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Gew%C3%B6hnliches%20Leinkraut permanent;
+rewrite ^/1181$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Ginkgo permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-47/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Ginkgo
+permanent;
+rewrite ^/1183$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Gro%C3%9Fbl%C3%BCtige%20K%C3%B6nigskerze permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-49/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Gro%C3%9Fbl%C3%BCtige%20K%C3%B6nigskerze permanent;
+rewrite ^/1158$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Gro%C3%9Fe%20Brennnessel permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-24/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Gro%C3%9Fe%20Brennnessel permanent;
+rewrite ^/1693$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Gro%C3%9Fe%20Klette permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-260/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Gro%C3%9Fe%20Klette permanent;
+rewrite ^/1164$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Gr%C3%BCne%20Nieswurz permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-30/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Gr%C3%BCne%20Nieswurz permanent;
+rewrite ^/1184$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Gundelrebe%2C%20Gundermann permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-50/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Gundelrebe%2C%20Gundermann permanent;
+rewrite ^/1317$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Guter%20Heinrich permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-183/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Guter%20Heinrich permanent;
+rewrite ^/1186$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Hafer permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-52/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Hafer
+permanent;
+rewrite ^/1685$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Hasel permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-252/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Hasel
+permanent;
+rewrite ^/1695$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Haselwurz permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-262/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Haselwurz
+permanent;
+rewrite ^/1677$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Hasenklee permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-244/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Hasenklee
+permanent;
+rewrite ^/1678$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Hauswurz permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-245/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Hauswurz
+permanent;
+rewrite ^/1323$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Heiligenkraut permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-189/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Heiligenkraut
+permanent;
+rewrite ^/1189$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Herbstzeitlose permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-55/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Herbstzeitlose
+permanent;
+rewrite ^/1190$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Herzgespann permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-56/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Herzgespann
+permanent;
+rewrite ^/1292$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Hirtent%C3%A4schel permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-158/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Hirtent%C3%A4schel permanent;
+rewrite ^/1699$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Hopfen permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-266/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Hopfen
+permanent;
+rewrite ^/1192$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Huflattich permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-58/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Huflattich
+permanent;
+rewrite ^/1193$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Hundsrose%20%28Hagebutte%29 permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-59/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Hundsrose%20%28Hagebutte%29 permanent;
+rewrite ^/1661$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Ingwer permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-228/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Ingwer
+permanent;
+rewrite ^/1692$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Jakobs-Kreuzkraut permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-259/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Jakobs-Kreuzkraut permanent;
+rewrite ^/1195$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Johanniskraut permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-61/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Johanniskraut
+permanent;
+rewrite ^/1196$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Kamille permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-62/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Kamille
+permanent;
+rewrite ^/1300$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Kanadisches%20Berufkraut permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-166/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Kanadisches%20Berufkraut permanent;
+rewrite ^/1197$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Kapuzinerkresse permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-63/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Kapuzinerkresse
+permanent;
+rewrite ^/1293$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Karde permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-159/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Karde
+permanent;
+rewrite ^/1198$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Kartoffel permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-64/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Kartoffel
+permanent;
+rewrite ^/1199$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Katzenminze permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-65/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Katzenminze
+permanent;
+rewrite ^/1689$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Kiefer permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-256/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Kiefer
+permanent;
+rewrite ^/1662$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Kirschlorbeer permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-229/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Kirschlorbeer
+permanent;
+rewrite ^/1659$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Kleinbl%C3%BCtiges%20Knopfkraut permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-226/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Kleinbl%C3%BCtiges%20Knopfkraut permanent;
+rewrite ^/1159$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Kleine%20Brennnessel permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-25/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Kleine%20Brennnessel permanent;
+rewrite ^/1231$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Kleiner%20Odermennig permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-97/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Kleiner%20Odermennig permanent;
+rewrite ^/1185$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Kleines%20Habichtskraut permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-51/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Kleines%20Habichtskraut permanent;
+rewrite ^/1194$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Kleines%20Immergr%C3%BCn permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-60/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Kleines%20Immergr%C3%BCn permanent;
+rewrite ^/1329$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Knoblauchsrauke permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-195/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Knoblauchsrauke permanent;
+rewrite ^/1204$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Kohl permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-70/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Kohl permanent;
+rewrite ^/1663$ https://stadtmarketing-lehrte.de/heilpflanzengarten/K%C3%B6nigsk%C3%BCmmel permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-230/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/K%C3%B6nigsk%C3%BCmmel permanent;
+rewrite ^/1207$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Kornrade permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-73/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Kornrade
+permanent;
+rewrite ^/1208$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Kreuzk%C3%BCmmel permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-74/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Kreuzk%C3%BCmmel permanent;
+rewrite ^/1328$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Kriechender%20G%C3%BCnsel permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-194/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Kriechender%20G%C3%BCnsel permanent;
+rewrite ^/1211$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Kuhschelle%20%5C%20Küchenschelle permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-77/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Kuhschelle%20%5C%20Küchenschelle permanent;
+rewrite ^/1209$ https://stadtmarketing-lehrte.de/heilpflanzengarten/K%C3%BCmmel permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-75/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/K%C3%BCmmel
+permanent;
+rewrite ^/1641$ https://stadtmarketing-lehrte.de/heilpflanzengarten/K%C3%BCmmelthymian permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-208/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/K%C3%BCmmelthymian permanent;
+rewrite ^/1210$ https://stadtmarketing-lehrte.de/heilpflanzengarten/K%C3%BCrbis permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-76/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/K%C3%BCrbis
+permanent;
+rewrite ^/1687$ https://stadtmarketing-lehrte.de/heilpflanzengarten/L%C3%A4rche permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-254/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/L%C3%A4rche
+permanent;
+rewrite ^/1294$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Lavendel permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-160/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Lavendel
+permanent;
+rewrite ^/1212$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Leberbl%C3%BCmchen permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-78/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Leberbl%C3%BCmchen permanent;
+rewrite ^/1213$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Lein permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-79/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Lein permanent;
+rewrite ^/1215$ https://stadtmarketing-lehrte.de/heilpflanzengarten/L%C3%B6wenzahn permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-81/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/L%C3%B6wenzahn
+permanent;
+rewrite ^/1216$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Lungenkraut permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-82/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Lungenkraut
+permanent;
+rewrite ^/1217$ https://stadtmarketing-lehrte.de/heilpflanzengarten/M%C3%A4des%C3%BC%C3%9F permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-83/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/M%C3%A4des%C3%BC%C3%9F permanent;
+rewrite ^/1664$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Mahonie permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-231/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Mahonie
+permanent;
+rewrite ^/1218$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Maigl%C3%B6ckchen permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-84/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Maigl%C3%B6ckchen permanent;
+rewrite ^/1220$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Mariendistel permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-86/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Mariendistel
+permanent;
+rewrite ^/1221$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Meerrettich permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-87/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Meerrettich
+permanent;
+rewrite ^/1223$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Melisse permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-89/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Melisse
+permanent;
+rewrite ^/1684$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Mistel permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-251/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Mistel
+permanent;
+rewrite ^/1701$ https://stadtmarketing-lehrte.de/heilpflanzengarten/M%C3%B6hre permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-268/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/M%C3%B6hre
+permanent;
+rewrite ^/1225$ https://stadtmarketing-lehrte.de/heilpflanzengarten/M%C3%B6nchspfeffer permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-91/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/M%C3%B6nchspfeffer permanent;
+rewrite ^/1691$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Moschusmalve permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-258/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Moschusmalve
+permanent;
+rewrite ^/1226$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Mutterkorn permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-92/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Mutterkorn
+permanent;
+rewrite ^/1227$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Mutterkraut permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-93/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Mutterkraut
+permanent;
+rewrite ^/1229$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Natternkopf permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-95/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Natternkopf
+permanent;
+rewrite ^/1332$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Nelkenwurz permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-198/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Nelkenwurz
+permanent;
+rewrite ^/1230$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Ochsenzunge permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-96/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Ochsenzunge
+permanent;
+rewrite ^/1232$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Oregano permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-98/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Oregano
+permanent;
+rewrite ^/1233$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Passionsblume permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-99/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Passionsblume
+permanent;
+rewrite ^/1702$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Pastinake permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-269/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Pastinake
+permanent;
+rewrite ^/1234$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Petersilie permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-100/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Petersilie
+permanent;
+rewrite ^/1312$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Pfennigkraut permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-178/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Pfennigkraut
+permanent;
+rewrite ^/1635$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Pfingstrose permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-202/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Pfingstrose
+permanent;
+rewrite ^/1655$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Quendel%2C%20Feldthymian permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-222/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Quendel%2C%20Feldthymian permanent;
+rewrite ^/1636$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Rainfarn permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-203/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Rainfarn
+permanent;
+rewrite ^/1700$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Rettich permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-267/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Rettich
+permanent;
+rewrite ^/1239$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Ringelblume permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-105/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Ringelblume
+permanent;
+rewrite ^/1242$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Rizinus permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-108/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Rizinus
+permanent;
+rewrite ^/1327$ https://stadtmarketing-lehrte.de/heilpflanzengarten/R%C3%B6mische%20Kamille permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-193/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/R%C3%B6mische%20Kamille permanent;
+rewrite ^/1243$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Rosmarin permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-109/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Rosmarin
+permanent;
+rewrite ^/1244$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Rosskastanie permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-110/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Rosskastanie
+permanent;
+rewrite ^/1245$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Rote%20Bete permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-111/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Rote%20Bete
+permanent;
+rewrite ^/1246$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Roter%20Fingerhut permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-112/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Roter%20Fingerhut permanent;
+rewrite ^/1247$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Rotklee permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-113/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Rotklee
+permanent;
+rewrite ^/1248$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Safran permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-114/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Safran
+permanent;
+rewrite ^/1249$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Salbei permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-115/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Salbei
+permanent;
+rewrite ^/1250$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Sanddorn permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-116/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Sanddorn
+permanent;
+rewrite ^/1252$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Schafgarbe permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-118/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Schafgarbe
+permanent;
+rewrite ^/1253$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Scharbockskraut permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-119/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Scharbockskraut permanent;
+rewrite ^/1255$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Schlafmohn permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-121/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Schlafmohn
+permanent;
+rewrite ^/1697$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Schlehe permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-264/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Schlehe
+permanent;
+rewrite ^/1256$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Schl%C3%BCsselblume permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-122/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Schl%C3%BCsselblume permanent;
+rewrite ^/1658$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Schneegl%C3%B6ckchen permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-225/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Schneegl%C3%B6ckchen permanent;
+rewrite ^/1257$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Schnittlauch permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-123/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Schnittlauch
+permanent;
+rewrite ^/1163$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Schwarze%20Nieswurz%2C%20Christrose permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-29/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Schwarze%20Nieswurz%2C%20Christrose permanent;
+rewrite ^/1191$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Schwarzer%20Holunder permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-57/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Schwarzer%20Holunder permanent;
+rewrite ^/1334$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Schwarzer%20Nachtschatten permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-200/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Schwarzer%20Nachtschatten permanent;
+rewrite ^/1262$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Schwarzer%20Senf permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-128/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Schwarzer%20Senf permanent;
+rewrite ^/1259$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Schwarzk%C3%BCmmel permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-125/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Schwarzk%C3%BCmmel permanent;
+rewrite ^/1240$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Seifenkraut permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-106/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Seifenkraut
+permanent;
+rewrite ^/1283$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Silberweide permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-149/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Silberweide
+permanent;
+rewrite ^/1137$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Sommer-Adonisr%C3%B6schen permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-3/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Sommer-Adonisr%C3%B6schen permanent;
+rewrite ^/1673$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Sommerlinde permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-240/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Sommerlinde
+permanent;
+rewrite ^/1263$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Sonnenblume permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-129/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Sonnenblume
+permanent;
+rewrite ^/1264$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Sonnenhut permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-130/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Sonnenhut
+permanent;
+rewrite ^/1265$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Spargel permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-131/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Spargel
+permanent;
+rewrite ^/1266$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Spitzwegerich permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-132/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Spitzwegerich
+permanent;
+rewrite ^/1267$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Steinklee permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-133/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Steinklee
+permanent;
+rewrite ^/1682$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Stieleiche permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-249/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Stieleiche
+permanent;
+rewrite ^/1638$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Stockrose permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-205/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Stockrose
+permanent;
+rewrite ^/1241$ https://stadtmarketing-lehrte.de/heilpflanzengarten/S%C3%BC%C3%9Fdolde permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-107/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/S%C3%BC%C3%9Fdolde permanent;
+rewrite ^/1272$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Teufelsabbiss permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-138/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Teufelsabbiss
+permanent;
+rewrite ^/1273$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Thymian permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-139/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Thymian
+permanent;
+rewrite ^/1274$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Tollkirsche permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-140/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Tollkirsche
+permanent;
+rewrite ^/1275$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Traubensilberkerze permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-141/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Traubensilberkerze permanent;
+rewrite ^/1276$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Veilchen permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-142/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Veilchen
+permanent;
+rewrite ^/1665$ https://stadtmarketing-lehrte.de/heilpflanzengarten/vielbl%C3%BCtige%20Wei%C3%9Fwurz permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-232/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/vielbl%C3%BCtige%20Wei%C3%9Fwurz permanent;
+rewrite ^/1277$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Vogelmiere permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-143/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Vogelmiere
+permanent;
+rewrite ^/1279$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Wacholder permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-145/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Wacholder
+permanent;
+rewrite ^/1308$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Wald-Erdbeere permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-174/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Wald-Erdbeere
+permanent;
+rewrite ^/1280$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Waldmeister permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-146/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Waldmeister
+permanent;
+rewrite ^/1281$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Walnuss permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-147/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Walnuss
+permanent;
+rewrite ^/1649$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Wegmalve permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-216/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Wegmalve
+permanent;
+rewrite ^/1282$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Wegwarte permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-148/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Wegwarte
+permanent;
+rewrite ^/1298$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Weicher%20Akanthus permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-164/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Weicher%20Akanthus permanent;
+rewrite ^/1643$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Weinraute permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-210/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Weinraute
+permanent;
+rewrite ^/1666$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Weinstock permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-233/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Weinstock
+permanent;
+rewrite ^/1270$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Wei%C3%9Fe%20Taubnessel permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-136/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Wei%C3%9Fe%20Taubnessel permanent;
+rewrite ^/1261$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Wei%C3%9Fer%20Senf permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-127/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Wei%C3%9Fer%20Senf permanent;
+rewrite ^/1648$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Wilde%20Malve permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-215/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Wilde%20Malve
+permanent;
+rewrite ^/1696$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Wilde%20Rauke permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-263/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Wilde%20Rauke
+permanent;
+rewrite ^/1681$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Winterlinde permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-248/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Winterlinde
+permanent;
+rewrite ^/1285$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Wohlriechender%20Wei%C3%9Fwurz%20%28Salomonssiegel%29 permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-151/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Wohlriechender%20Wei%C3%9Fwurz%20%28Salomonssiegel%29 permanent;
+rewrite ^/1668$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Wundklee permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-235/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Wundklee
+permanent;
+rewrite ^/1289$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Ysop permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-155/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Ysop
+permanent;
+rewrite ^/1286$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Zweigriffeliger%20Wei%C3%9Fdorn permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-152/$
+https://stadtmarketing-lehrte.de/heilpflanzengarten/Zweigriffeliger%20Wei%C3%9Fdorn permanent;
+rewrite ^/1290$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Zwiebel permanent;
+rewrite ^/heilpflanzengarten/heilpflanzengarten-156/$ https://stadtmarketing-lehrte.de/heilpflanzengarten/Zwiebel
+permanent;
