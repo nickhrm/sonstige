@@ -1,5 +1,7 @@
-use regex::Regex;
-use std::{env, fs};
+use reqwest::blocking::Client;
+use reqwest::header::{HeaderMap, HeaderValue, AUTHORIZATION};
+use serde_json::Value;
+use std::{env, fs}; // Import the `blocking` module from `reqwest`
 fn main() {
     println!("Hello, world!");
     let args: Vec<String> = env::args().collect();
@@ -33,46 +35,60 @@ fn main() {
             }
             None => println!("No URL found in line: {}", line),
         }
+        println!("");
     }
 }
 
 //holt URL aus zeile in Datei
 fn extract_url(line: &str) -> Option<&str> {
-    // Suchmuster für den Beginn des Links
     let start_pattern = "https://stadtmarketing-lehrte.de";
 
-    // Überprüfe, ob die Zeichenkette das Suchmuster enthält
     if let Some(start_index) = line.find(start_pattern) {
-        // Extrahiere den Teil der Zeichenkette ab dem Startmuster
         let url_part = &line[start_index..];
-
-        // Suchmuster für das Ende des Links (in diesem Fall ist das Ende durch das Leerzeichen markiert)
-        let end_pattern = " ";
-
-        // Suche nach dem ersten Leerzeichen nach dem Startmuster
-        if let Some(end_index) = url_part.find(end_pattern) {
-            // Extrahiere den Link bis zum ersten Leerzeichen
-            let url = &url_part[..end_index];
-            Some(url);
-        }
+        let splitted: Vec<&str> = url_part.split(' ').collect();
+        return Some(splitted[0]);
     }
 
     None // Falls kein passender Link gefunden wurde
 }
 
-fn extract_link_components(link: &str) -> Option<(&str, String)> {
+fn extract_link_components(link: &str) -> Option<(String, String)> {
     // Teile den Link anhand des Schrägstrichs (/) auf
     let parts: Vec<&str> = link.split('/').collect();
 
     // Überprüfe, ob genügend Teile vorhanden sind
     if parts.len() >= 4 {
         // Extrahiere die relevanten Teile des Links
-        let category = parts[3]; // Beispiel: "Rad-%20und%20Wandertouren"
-        let description = parts[4..].join("/"); // Beispiel: "Vom%20Rathaus%20Lehrte%20durch%20alle%20Ortsteile%20%7C%20Streckenl%C3%A4nge%20ca.%3A%2058%20km"
-
-        // Gib die extrahierten Teile als Tupel zurück
-        return Some((category, description));
+        let mut category = String::from(parts[3]); // Beispiel: "Rad-%20und%20Wandertouren"
+        let title = parts[4..].join("/"); // Beispiel: "Vom%20Rathaus%20Lehrte%20durch%20alle%20Ortsteile%20%7C%20Streckenl%C3%A4nge%20ca.%3A%2058%20km"
+        category += "-beitraege"; // Füge die Dateiendung hinzu
+                                  // Gib die extrahierten Teile als Tupel zurück
+        return Some((category, title));
     }
 
     None // Falls die Teile nicht ausreichend sind
+}
+
+fn getId(hauptseite: &str, title: &str) -> Option<usize> {
+    let url = "https://stadtmarketing-lehrte.de/cms/api/streuobstwiese-beitraege?filters[VorschauTitel][$eqi]=Kaiser%20Wilhelm&fields[0]=id";
+
+    let bearer: &str = "8ff9069f006859e5d2ec06979a13f027f2ad3005695c081c2dcb53f707f16be002db5b38e2784bb6d93438dd75837fd11002dca05687917fdbf19fdc24c1114444674fd8deb18ccf7c53add152165a08c3027e978399c23b019504d2b54e42455ab7f76819bef9e56edad5f705183b07ee6bab4e5f23f328d1ccc6b921a10a59";
+
+    let client = reqwest::blocking::Client::new();
+    let mut headers: HeaderMap = HeaderMap::new();
+    headers.insert(
+        AUTHORIZATION,
+        HeaderValue::from_str(&format!("Bearer {}", bearer)).unwrap(),
+    );
+    let response = client.get(url).headers(headers).send();
+
+    match response {
+        Ok(response) => {
+            let json = response.json::<Value>().unwrap();
+            let id = json["data"][0]["id"].as_u64().unwrap();
+            println!("ID: {}", id);
+            Some(id as usize)
+        }
+        Err(e) => None,
+    }
 }
