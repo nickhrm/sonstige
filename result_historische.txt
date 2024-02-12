@@ -1,0 +1,132 @@
+rewrite ^/1089$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/2 permanent;
+
+rewrite ^/1122$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/35 permanent;
+
+rewrite ^/bronzetafeln/bronztafel-34/$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/35 permanent;
+
+rewrite ^/bronzetafeln/bronztafel-1/$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/2 permanent;
+
+rewrite ^/1090$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/3 permanent;
+
+rewrite ^/bronzetafeln/bronztafel-2/$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/3 permanent;
+
+rewrite ^/1091$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/4 permanent;
+
+rewrite ^/bronzetafeln/bronztafel-3/$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/4 permanent;
+
+rewrite ^/1092$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/5 permanent;
+
+rewrite ^/bronzetafeln/bronztafel-4/$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/5 permanent;
+
+rewrite ^/1093$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/6 permanent;
+
+rewrite ^/bronzetafeln/bronztafel-5/$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/6 permanent;
+
+rewrite ^/1094$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/7 permanent;
+
+rewrite ^/bronzetafeln/bronztafel-6/$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/7 permanent;
+
+rewrite ^/1095$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/8 permanent;
+
+rewrite ^/bronzetafeln/bronztafel-7/$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/8 permanent;
+
+rewrite ^/1096$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/9 permanent;
+
+rewrite ^/bronzetafeln/bronztafel-8/$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/9 permanent;
+
+rewrite ^/1097$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/10 permanent;
+
+rewrite ^/bronzetafeln/bronztafel-9/$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/10 permanent;
+
+rewrite ^/1098$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/11 permanent;
+
+rewrite ^/bronzetafeln/bronztafel-10/$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/11 permanent;
+
+rewrite ^/1099$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/12 permanent;
+
+rewrite ^/bronzetafeln/bronztafel-11/$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/12 permanent;
+
+rewrite ^/1100$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/13 permanent;
+
+rewrite ^/bronzetafeln/bronztafel-12/$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/13 permanent;
+
+rewrite ^/1101$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/14 permanent;
+
+rewrite ^/bronzetafeln/bronztafel-13/$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/14 permanent;
+
+rewrite ^/1102$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/15 permanent;
+
+rewrite ^/bronzetafeln/bronztafel-14/$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/15 permanent;
+
+rewrite ^/1103$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/16 permanent;
+
+rewrite ^/bronzetafeln/bronztafel-15/$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/16 permanent;
+
+rewrite ^/1104$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/17 permanent;
+
+rewrite ^/bronzetafeln/bronztafel-16/$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/17 permanent;
+
+rewrite ^/1105$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/18 permanent;
+
+rewrite ^/bronzetafeln/bronztafel-17/$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/18 permanent;
+
+rewrite ^/1106$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/19 permanent;
+
+rewrite ^/bronzetafeln/bronztafel-18/$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/19 permanent;
+
+rewrite ^/1107$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/20 permanent;
+
+rewrite ^/bronzetafeln/bronztafel-19/$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/20 permanent;
+
+rewrite ^/1108$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/21 permanent;
+
+rewrite ^/bronzetafeln/bronztafel-20/$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/21 permanent;
+
+rewrite ^/1109$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/22 permanent;
+
+rewrite ^/bronzetafeln/bronztafel-21/$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/22 permanent;
+
+rewrite ^/1110$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/23 permanent;
+
+rewrite ^/bronzetafeln/bronztafel-22/$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/23 permanent;
+
+rewrite ^/1111$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/24 permanent;
+
+rewrite ^/bronzetafeln/bronztafel-23/$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/24 permanent;
+
+rewrite ^/1112$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/25 permanent;
+
+rewrite ^/bronzetafeln/bronztafel-24/$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/25 permanent;
+
+rewrite ^/1113$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/26 permanent;
+
+rewrite ^/bronzetafeln/bronztafel-25/$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/26 permanent;
+
+rewrite ^/1114$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/27 permanent;
+
+rewrite ^/bronzetafeln/bronztafel-26/$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/27 permanent;
+
+rewrite ^/1115$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/28 permanent;
+
+rewrite ^/bronzetafeln/bronztafel-27/$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/28 permanent;
+
+rewrite ^/1116$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/29 permanent;
+
+rewrite ^/bronzetafeln/bronztafel-28/$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/29 permanent;
+
+rewrite ^/1117$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/30 permanent;
+
+rewrite ^/bronzetafeln/bronztafel-29/$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/30 permanent;
+
+rewrite ^/1118$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/32 permanent;
+
+rewrite ^/bronzetafeln/bronztafel-30/$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/32 permanent;
+
+rewrite ^/1119$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/33 permanent;
+
+rewrite ^/bronzetafeln/villa-nordstern/$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/33 permanent;
+
+rewrite ^/1120$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/34 permanent;
+
+rewrite ^/bronzetafeln/bronztafel-32/$ https://stadtmarketing-lehrte.de/Markante%20Gebäude%20und%20Plätze/34 permanent;
+

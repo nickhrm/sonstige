@@ -1,0 +1,692 @@
+rewrite ^/1445$ https://stadtmarketing-lehrte.de/streuobstwiese/4 permanent;
+
+rewrite ^/streuobstwiese/a1/$ https://stadtmarketing-lehrte.de/streuobstwiese/4 permanent;
+
+rewrite ^/1446$ https://stadtmarketing-lehrte.de/streuobstwiese/4 permanent;
+
+rewrite ^/streuobstwiese/a2/$ https://stadtmarketing-lehrte.de/streuobstwiese/4 permanent;
+
+rewrite ^/1447$ https://stadtmarketing-lehrte.de/streuobstwiese/7 permanent;
+
+rewrite ^/streuobstwiese/a3/$ https://stadtmarketing-lehrte.de/streuobstwiese/7 permanent;
+
+rewrite ^/1448$ https://stadtmarketing-lehrte.de/streuobstwiese/10 permanent;
+
+rewrite ^/streuobstwiese/a4/$ https://stadtmarketing-lehrte.de/streuobstwiese/10 permanent;
+
+rewrite ^/1449$ https://stadtmarketing-lehrte.de/streuobstwiese/10 permanent;
+
+rewrite ^/streuobstwiese/a5/$ https://stadtmarketing-lehrte.de/streuobstwiese/10 permanent;
+
+rewrite ^/1450$ https://stadtmarketing-lehrte.de/streuobstwiese/11 permanent;
+
+rewrite ^/streuobstwiese/b1/$ https://stadtmarketing-lehrte.de/streuobstwiese/11 permanent;
+
+rewrite ^/1451$ https://stadtmarketing-lehrte.de/streuobstwiese/12 permanent;
+
+rewrite ^/streuobstwiese/b2/$ https://stadtmarketing-lehrte.de/streuobstwiese/12 permanent;
+
+rewrite ^/1452$ https://stadtmarketing-lehrte.de/streuobstwiese/13 permanent;
+
+rewrite ^/streuobstwiese/b3/$ https://stadtmarketing-lehrte.de/streuobstwiese/13 permanent;
+
+rewrite ^/1453$ https://stadtmarketing-lehrte.de/streuobstwiese/15 permanent;
+
+rewrite ^/streuobstwiese/b4/$ https://stadtmarketing-lehrte.de/streuobstwiese/15 permanent;
+
+rewrite ^/1454$ https://stadtmarketing-lehrte.de/streuobstwiese/16 permanent;
+
+rewrite ^/streuobstwiese/b5/$ https://stadtmarketing-lehrte.de/streuobstwiese/16 permanent;
+
+rewrite ^/1455$ https://stadtmarketing-lehrte.de/streuobstwiese/16 permanent;
+
+rewrite ^/streuobstwiese/b6/$ https://stadtmarketing-lehrte.de/streuobstwiese/16 permanent;
+
+rewrite ^/1456$ https://stadtmarketing-lehrte.de/streuobstwiese/16 permanent;
+
+rewrite ^/streuobstwiese/b7/$ https://stadtmarketing-lehrte.de/streuobstwiese/16 permanent;
+
+rewrite ^/1457$ https://stadtmarketing-lehrte.de/streuobstwiese/17 permanent;
+
+rewrite ^/streuobstwiese/b8/$ https://stadtmarketing-lehrte.de/streuobstwiese/17 permanent;
+
+rewrite ^/1458$ https://stadtmarketing-lehrte.de/streuobstwiese/17 permanent;
+
+rewrite ^/streuobstwiese/b9/$ https://stadtmarketing-lehrte.de/streuobstwiese/17 permanent;
+
+rewrite ^/1459$ https://stadtmarketing-lehrte.de/streuobstwiese/19 permanent;
+
+rewrite ^/streuobstwiese/c1/$ https://stadtmarketing-lehrte.de/streuobstwiese/19 permanent;
+
+rewrite ^/1460$ https://stadtmarketing-lehrte.de/streuobstwiese/19 permanent;
+
+rewrite ^/streuobstwiese/c2/$ https://stadtmarketing-lehrte.de/streuobstwiese/19 permanent;
+
+rewrite ^/1461$ https://stadtmarketing-lehrte.de/streuobstwiese/20 permanent;
+
+rewrite ^/streuobstwiese/c3/$ https://stadtmarketing-lehrte.de/streuobstwiese/20 permanent;
+
+rewrite ^/1462$ https://stadtmarketing-lehrte.de/streuobstwiese/19 permanent;
+
+rewrite ^/streuobstwiese/c4/$ https://stadtmarketing-lehrte.de/streuobstwiese/19 permanent;
+
+rewrite ^/1463$ https://stadtmarketing-lehrte.de/streuobstwiese/20 permanent;
+
+rewrite ^/streuobstwiese/c5/$ https://stadtmarketing-lehrte.de/streuobstwiese/20 permanent;
+
+rewrite ^/1464$ https://stadtmarketing-lehrte.de/streuobstwiese/21 permanent;
+
+rewrite ^/streuobstwiese/c6/$ https://stadtmarketing-lehrte.de/streuobstwiese/21 permanent;
+
+rewrite ^/1465$ https://stadtmarketing-lehrte.de/streuobstwiese/23 permanent;
+
+rewrite ^/streuobstwiese/c7/$ https://stadtmarketing-lehrte.de/streuobstwiese/23 permanent;
+
+rewrite ^/1466$ https://stadtmarketing-lehrte.de/streuobstwiese/24 permanent;
+
+rewrite ^/streuobstwiese/c8/$ https://stadtmarketing-lehrte.de/streuobstwiese/24 permanent;
+
+rewrite ^/1467$ https://stadtmarketing-lehrte.de/streuobstwiese/31 permanent;
+
+rewrite ^/streuobstwiese/c9/$ https://stadtmarketing-lehrte.de/streuobstwiese/31 permanent;
+
+rewrite ^/1468$ https://stadtmarketing-lehrte.de/streuobstwiese/11 permanent;
+
+rewrite ^/streuobstwiese/c10/$ https://stadtmarketing-lehrte.de/streuobstwiese/11 permanent;
+
+rewrite ^/1469$ https://stadtmarketing-lehrte.de/streuobstwiese/31 permanent;
+
+rewrite ^/streuobstwiese/c11/$ https://stadtmarketing-lehrte.de/streuobstwiese/31 permanent;
+
+rewrite ^/1470$ https://stadtmarketing-lehrte.de/streuobstwiese/7 permanent;
+
+rewrite ^/streuobstwiese/c12/$ https://stadtmarketing-lehrte.de/streuobstwiese/7 permanent;
+
+rewrite ^/1471$ https://stadtmarketing-lehrte.de/streuobstwiese/33 permanent;
+
+rewrite ^/streuobstwiese/c13/$ https://stadtmarketing-lehrte.de/streuobstwiese/33 permanent;
+
+rewrite ^/1472$ https://stadtmarketing-lehrte.de/streuobstwiese/35 permanent;
+
+rewrite ^/streuobstwiese/d1/$ https://stadtmarketing-lehrte.de/streuobstwiese/35 permanent;
+
+rewrite ^/1473$ https://stadtmarketing-lehrte.de/streuobstwiese/36 permanent;
+
+rewrite ^/streuobstwiese/d2/$ https://stadtmarketing-lehrte.de/streuobstwiese/36 permanent;
+
+rewrite ^/1474$ https://stadtmarketing-lehrte.de/streuobstwiese/38 permanent;
+
+rewrite ^/streuobstwiese/d3/$ https://stadtmarketing-lehrte.de/streuobstwiese/38 permanent;
+
+rewrite ^/1475$ https://stadtmarketing-lehrte.de/streuobstwiese/38 permanent;
+
+rewrite ^/streuobstwiese/d4/$ https://stadtmarketing-lehrte.de/streuobstwiese/38 permanent;
+
+rewrite ^/1476$ https://stadtmarketing-lehrte.de/streuobstwiese/29 permanent;
+
+rewrite ^/streuobstwiese/d5/$ https://stadtmarketing-lehrte.de/streuobstwiese/29 permanent;
+
+rewrite ^/1477$ https://stadtmarketing-lehrte.de/Streuobstwiese/40 permanent;
+
+rewrite ^/streuobstwiese/d6/$ https://stadtmarketing-lehrte.de/Streuobstwiese/40 permanent;
+
+rewrite ^/1478$ https://stadtmarketing-lehrte.de/streuobstwiese/41 permanent;
+
+rewrite ^/streuobstwiese/d7/$ https://stadtmarketing-lehrte.de/streuobstwiese/41 permanent;
+
+rewrite ^/1479$ https://stadtmarketing-lehrte.de/streuobstwiese/43 permanent;
+
+rewrite ^/streuobstwiese/d8/$ https://stadtmarketing-lehrte.de/streuobstwiese/43 permanent;
+
+rewrite ^/1480$ https://stadtmarketing-lehrte.de/streuobstwiese/44 permanent;
+
+rewrite ^/streuobstwiese/d9/$ https://stadtmarketing-lehrte.de/streuobstwiese/44 permanent;
+
+rewrite ^/1481$ https://stadtmarketing-lehrte.de/streuobstwiese/46 permanent;
+
+rewrite ^/streuobstwiese/d10/$ https://stadtmarketing-lehrte.de/streuobstwiese/46 permanent;
+
+rewrite ^/1482$ https://stadtmarketing-lehrte.de/streuobstwiese/46 permanent;
+
+rewrite ^/streuobstwiese/d11/$ https://stadtmarketing-lehrte.de/streuobstwiese/46 permanent;
+
+rewrite ^/1483$ https://stadtmarketing-lehrte.de/streuobstwiese/46 permanent;
+
+rewrite ^/streuobstwiese/d12/$ https://stadtmarketing-lehrte.de/streuobstwiese/46 permanent;
+
+rewrite ^/1484$ https://stadtmarketing-lehrte.de/streuobstwiese/47 permanent;
+
+rewrite ^/streuobstwiese/d13/$ https://stadtmarketing-lehrte.de/streuobstwiese/47 permanent;
+
+rewrite ^/1485$ https://stadtmarketing-lehrte.de/streuobstwiese/47 permanent;
+
+rewrite ^/streuobstwiese/d14/$ https://stadtmarketing-lehrte.de/streuobstwiese/47 permanent;
+
+rewrite ^/1486$ https://stadtmarketing-lehrte.de/streuobstwiese/36 permanent;
+
+rewrite ^/streuobstwiese/e1/$ https://stadtmarketing-lehrte.de/streuobstwiese/36 permanent;
+
+rewrite ^/1487$ https://stadtmarketing-lehrte.de/streuobstwiese/36 permanent;
+
+rewrite ^/streuobstwiese/e2/$ https://stadtmarketing-lehrte.de/streuobstwiese/36 permanent;
+
+rewrite ^/1488$ https://stadtmarketing-lehrte.de/streuobstwiese/38 permanent;
+
+rewrite ^/streuobstwiese/e3/$ https://stadtmarketing-lehrte.de/streuobstwiese/38 permanent;
+
+rewrite ^/1489$ https://stadtmarketing-lehrte.de/streuobstwiese/29 permanent;
+
+rewrite ^/streuobstwiese/e4/$ https://stadtmarketing-lehrte.de/streuobstwiese/29 permanent;
+
+rewrite ^/1490$ https://stadtmarketing-lehrte.de/streuobstwiese/40 permanent;
+
+rewrite ^/streuobstwiese/e5/$ https://stadtmarketing-lehrte.de/streuobstwiese/40 permanent;
+
+rewrite ^/1491$ https://stadtmarketing-lehrte.de/streuobstwiese/47 permanent;
+
+rewrite ^/streuobstwiese/e6/$ https://stadtmarketing-lehrte.de/streuobstwiese/47 permanent;
+
+rewrite ^/1492$ https://stadtmarketing-lehrte.de/streuobstwiese/7 permanent;
+
+rewrite ^/streuobstwiese/e7/$ https://stadtmarketing-lehrte.de/streuobstwiese/7 permanent;
+
+rewrite ^/1493$ https://stadtmarketing-lehrte.de/streuobstwiese/23 permanent;
+
+rewrite ^/streuobstwiese/e8/$ https://stadtmarketing-lehrte.de/streuobstwiese/23 permanent;
+
+rewrite ^/1494$ https://stadtmarketing-lehrte.de/streuobstwiese/7 permanent;
+
+rewrite ^/streuobstwiese/e9/$ https://stadtmarketing-lehrte.de/streuobstwiese/7 permanent;
+
+rewrite ^/1495$ https://stadtmarketing-lehrte.de/streuobstwiese/40 permanent;
+
+rewrite ^/streuobstwiese/e10/$ https://stadtmarketing-lehrte.de/streuobstwiese/40 permanent;
+
+rewrite ^/1496$ https://stadtmarketing-lehrte.de/streuobstwiese/7 permanent;
+
+rewrite ^/streuobstwiese/e11/$ https://stadtmarketing-lehrte.de/streuobstwiese/7 permanent;
+
+rewrite ^/1497$ https://stadtmarketing-lehrte.de/streuobstwiese/7 permanent;
+
+rewrite ^/streuobstwiese/e12/$ https://stadtmarketing-lehrte.de/streuobstwiese/7 permanent;
+
+rewrite ^/1498$ https://stadtmarketing-lehrte.de/streuobstwiese/7 permanent;
+
+rewrite ^/streuobstwiese/e13/$ https://stadtmarketing-lehrte.de/streuobstwiese/7 permanent;
+
+rewrite ^/1499$ https://stadtmarketing-lehrte.de/streuobstwiese/49 permanent;
+
+rewrite ^/streuobstwiese/f1/$ https://stadtmarketing-lehrte.de/streuobstwiese/49 permanent;
+
+rewrite ^/1500$ https://stadtmarketing-lehrte.de/streuobstwiese/49 permanent;
+
+rewrite ^/streuobstwiese/f2/$ https://stadtmarketing-lehrte.de/streuobstwiese/49 permanent;
+
+rewrite ^/1501$ https://stadtmarketing-lehrte.de/streuobstwiese/49 permanent;
+
+rewrite ^/streuobstwiese/f3/$ https://stadtmarketing-lehrte.de/streuobstwiese/49 permanent;
+
+rewrite ^/1502$ https://stadtmarketing-lehrte.de/streuobstwiese/23 permanent;
+
+rewrite ^/streuobstwiese/f4/$ https://stadtmarketing-lehrte.de/streuobstwiese/23 permanent;
+
+rewrite ^/1503$ https://stadtmarketing-lehrte.de/streuobstwiese/7 permanent;
+
+rewrite ^/streuobstwiese/f5/$ https://stadtmarketing-lehrte.de/streuobstwiese/7 permanent;
+
+rewrite ^/1504$ https://stadtmarketing-lehrte.de/streuobstwiese/7 permanent;
+
+rewrite ^/streuobstwiese/f6/$ https://stadtmarketing-lehrte.de/streuobstwiese/7 permanent;
+
+rewrite ^/1505$ https://stadtmarketing-lehrte.de/streuobstwiese/8 permanent;
+
+rewrite ^/streuobstwiese/f7/$ https://stadtmarketing-lehrte.de/streuobstwiese/8 permanent;
+
+rewrite ^/1506$ https://stadtmarketing-lehrte.de/streuobstwiese/8 permanent;
+
+rewrite ^/streuobstwiese/f8/$ https://stadtmarketing-lehrte.de/streuobstwiese/8 permanent;
+
+rewrite ^/1507$ https://stadtmarketing-lehrte.de/streuobstwiese/7 permanent;
+
+rewrite ^/streuobstwiese/f9/$ https://stadtmarketing-lehrte.de/streuobstwiese/7 permanent;
+
+rewrite ^/1508$ https://stadtmarketing-lehrte.de/streuobstwiese/31 permanent;
+
+rewrite ^/streuobstwiese/f10/$ https://stadtmarketing-lehrte.de/streuobstwiese/31 permanent;
+
+rewrite ^/1509$ https://stadtmarketing-lehrte.de/streuobstwiese/33 permanent;
+
+rewrite ^/streuobstwiese/f11/$ https://stadtmarketing-lehrte.de/streuobstwiese/33 permanent;
+
+rewrite ^/1510$ https://stadtmarketing-lehrte.de/streuobstwiese/33 permanent;
+
+rewrite ^/streuobstwiese/f12/$ https://stadtmarketing-lehrte.de/streuobstwiese/33 permanent;
+
+rewrite ^/1511$ https://stadtmarketing-lehrte.de/streuobstwiese/33 permanent;
+
+rewrite ^/streuobstwiese/f13/$ https://stadtmarketing-lehrte.de/streuobstwiese/33 permanent;
+
+rewrite ^/1512$ https://stadtmarketing-lehrte.de/streuobstwiese/48 permanent;
+
+rewrite ^/streuobstwiese/g1/$ https://stadtmarketing-lehrte.de/streuobstwiese/48 permanent;
+
+rewrite ^/1513$ https://stadtmarketing-lehrte.de/streuobstwiese/48 permanent;
+
+rewrite ^/streuobstwiese/g2/$ https://stadtmarketing-lehrte.de/streuobstwiese/48 permanent;
+
+rewrite ^/1514$ https://stadtmarketing-lehrte.de/streuobstwiese/48 permanent;
+
+rewrite ^/streuobstwiese/g3/$ https://stadtmarketing-lehrte.de/streuobstwiese/48 permanent;
+
+rewrite ^/1515$ https://stadtmarketing-lehrte.de/streuobstwiese/50 permanent;
+
+rewrite ^/streuobstwiese/g4/$ https://stadtmarketing-lehrte.de/streuobstwiese/50 permanent;
+
+rewrite ^/1516$ https://stadtmarketing-lehrte.de/streuobstwiese/50 permanent;
+
+rewrite ^/streuobstwiese/g5/$ https://stadtmarketing-lehrte.de/streuobstwiese/50 permanent;
+
+rewrite ^/1517$ https://stadtmarketing-lehrte.de/streuobstwiese/50 permanent;
+
+rewrite ^/streuobstwiese/g6/$ https://stadtmarketing-lehrte.de/streuobstwiese/50 permanent;
+
+rewrite ^/1518$ https://stadtmarketing-lehrte.de/streuobstwiese/16 permanent;
+
+rewrite ^/streuobstwiese/g7/$ https://stadtmarketing-lehrte.de/streuobstwiese/16 permanent;
+
+rewrite ^/1519$ https://stadtmarketing-lehrte.de/streuobstwiese/44 permanent;
+
+rewrite ^/streuobstwiese/g8/$ https://stadtmarketing-lehrte.de/streuobstwiese/44 permanent;
+
+rewrite ^/1520$ https://stadtmarketing-lehrte.de/streuobstwiese/44 permanent;
+
+rewrite ^/streuobstwiese/g9/$ https://stadtmarketing-lehrte.de/streuobstwiese/44 permanent;
+
+rewrite ^/1521$ https://stadtmarketing-lehrte.de/streuobstwiese/29 permanent;
+
+rewrite ^/streuobstwiese/g10/$ https://stadtmarketing-lehrte.de/streuobstwiese/29 permanent;
+
+rewrite ^/1522$ https://stadtmarketing-lehrte.de/streuobstwiese/29 permanent;
+
+rewrite ^/streuobstwiese/g11/$ https://stadtmarketing-lehrte.de/streuobstwiese/29 permanent;
+
+rewrite ^/1523$ https://stadtmarketing-lehrte.de/streuobstwiese/47 permanent;
+
+rewrite ^/streuobstwiese/g12/$ https://stadtmarketing-lehrte.de/streuobstwiese/47 permanent;
+
+rewrite ^/1524$ https://stadtmarketing-lehrte.de/streuobstwiese/51 permanent;
+
+rewrite ^/streuobstwiese/g13/$ https://stadtmarketing-lehrte.de/streuobstwiese/51 permanent;
+
+rewrite ^/2448$ https://stadtmarketing-lehrte.de/streuobstwiese/18 permanent;
+
+rewrite ^/streuobstwiese/g14/$ https://stadtmarketing-lehrte.de/streuobstwiese/18 permanent;
+
+rewrite ^/1525$ https://stadtmarketing-lehrte.de/streuobstwiese/41 permanent;
+
+rewrite ^/streuobstwiese/h1/$ https://stadtmarketing-lehrte.de/streuobstwiese/41 permanent;
+
+rewrite ^/1526$ https://stadtmarketing-lehrte.de/streuobstwiese/33 permanent;
+
+rewrite ^/streuobstwiese/h2/$ https://stadtmarketing-lehrte.de/streuobstwiese/33 permanent;
+
+rewrite ^/1527$ https://stadtmarketing-lehrte.de/streuobstwiese/33 permanent;
+
+rewrite ^/streuobstwiese/h3/$ https://stadtmarketing-lehrte.de/streuobstwiese/33 permanent;
+
+rewrite ^/1528$ https://stadtmarketing-lehrte.de/streuobstwiese/43 permanent;
+
+rewrite ^/streuobstwiese/h4/$ https://stadtmarketing-lehrte.de/streuobstwiese/43 permanent;
+
+rewrite ^/1529$ https://stadtmarketing-lehrte.de/streuobstwiese/17 permanent;
+
+rewrite ^/streuobstwiese/h5/$ https://stadtmarketing-lehrte.de/streuobstwiese/17 permanent;
+
+rewrite ^/1530$ https://stadtmarketing-lehrte.de/streuobstwiese/17 permanent;
+
+rewrite ^/streuobstwiese/h6/$ https://stadtmarketing-lehrte.de/streuobstwiese/17 permanent;
+
+rewrite ^/1531$ https://stadtmarketing-lehrte.de/streuobstwiese/33 permanent;
+
+rewrite ^/streuobstwiese/h7/$ https://stadtmarketing-lehrte.de/streuobstwiese/33 permanent;
+
+rewrite ^/1532$ https://stadtmarketing-lehrte.de/streuobstwiese/31 permanent;
+
+rewrite ^/streuobstwiese/h8/$ https://stadtmarketing-lehrte.de/streuobstwiese/31 permanent;
+
+rewrite ^/1533$ https://stadtmarketing-lehrte.de/streuobstwiese/4 permanent;
+
+rewrite ^/streuobstwiese/h9/$ https://stadtmarketing-lehrte.de/streuobstwiese/4 permanent;
+
+rewrite ^/1534$ https://stadtmarketing-lehrte.de/streuobstwiese/7 permanent;
+
+rewrite ^/streuobstwiese/h10/$ https://stadtmarketing-lehrte.de/streuobstwiese/7 permanent;
+
+rewrite ^/1535$ https://stadtmarketing-lehrte.de/streuobstwiese/19 permanent;
+
+rewrite ^/streuobstwiese/h11/$ https://stadtmarketing-lehrte.de/streuobstwiese/19 permanent;
+
+rewrite ^/1536$ https://stadtmarketing-lehrte.de/streuobstwiese/52 permanent;
+
+rewrite ^/streuobstwiese/h12/$ https://stadtmarketing-lehrte.de/streuobstwiese/52 permanent;
+
+rewrite ^/1537$ https://stadtmarketing-lehrte.de/streuobstwiese/21 permanent;
+
+rewrite ^/streuobstwiese/h13/$ https://stadtmarketing-lehrte.de/streuobstwiese/21 permanent;
+
+rewrite ^/1538$ https://stadtmarketing-lehrte.de/streuobstwiese/54 permanent;
+
+rewrite ^/streuobstwiese/i1/$ https://stadtmarketing-lehrte.de/streuobstwiese/54 permanent;
+
+rewrite ^/1539$ https://stadtmarketing-lehrte.de/streuobstwiese/54 permanent;
+
+rewrite ^/streuobstwiese/i2/$ https://stadtmarketing-lehrte.de/streuobstwiese/54 permanent;
+
+rewrite ^/1540$ https://stadtmarketing-lehrte.de/streuobstwiese/55 permanent;
+
+rewrite ^/streuobstwiese/i3/$ https://stadtmarketing-lehrte.de/streuobstwiese/55 permanent;
+
+rewrite ^/1541$ https://stadtmarketing-lehrte.de/streuobstwiese/56 permanent;
+
+rewrite ^/streuobstwiese/i4/$ https://stadtmarketing-lehrte.de/streuobstwiese/56 permanent;
+
+rewrite ^/1542$ https://stadtmarketing-lehrte.de/streuobstwiese/58 permanent;
+
+rewrite ^/streuobstwiese/i5/$ https://stadtmarketing-lehrte.de/streuobstwiese/58 permanent;
+
+rewrite ^/1543$ https://stadtmarketing-lehrte.de/streuobstwiese/59 permanent;
+
+rewrite ^/streuobstwiese/i6/$ https://stadtmarketing-lehrte.de/streuobstwiese/59 permanent;
+
+rewrite ^/1544$ https://stadtmarketing-lehrte.de/streuobstwiese/59 permanent;
+
+rewrite ^/streuobstwiese/i7/$ https://stadtmarketing-lehrte.de/streuobstwiese/59 permanent;
+
+rewrite ^/1545$ https://stadtmarketing-lehrte.de/streuobstwiese/59 permanent;
+
+rewrite ^/streuobstwiese/i8/$ https://stadtmarketing-lehrte.de/streuobstwiese/59 permanent;
+
+rewrite ^/1546$ https://stadtmarketing-lehrte.de/streuobstwiese/61 permanent;
+
+rewrite ^/streuobstwiese/i9/$ https://stadtmarketing-lehrte.de/streuobstwiese/61 permanent;
+
+rewrite ^/1547$ https://stadtmarketing-lehrte.de/streuobstwiese/61 permanent;
+
+rewrite ^/streuobstwiese/i10/$ https://stadtmarketing-lehrte.de/streuobstwiese/61 permanent;
+
+rewrite ^/1548$ https://stadtmarketing-lehrte.de/streuobstwiese/61 permanent;
+
+rewrite ^/streuobstwiese/i11/$ https://stadtmarketing-lehrte.de/streuobstwiese/61 permanent;
+
+rewrite ^/1549$ https://stadtmarketing-lehrte.de/streuobstwiese/29 permanent;
+
+rewrite ^/streuobstwiese/i12/$ https://stadtmarketing-lehrte.de/streuobstwiese/29 permanent;
+
+rewrite ^/1550$ https://stadtmarketing-lehrte.de/streuobstwiese/29 permanent;
+
+rewrite ^/streuobstwiese/i13/$ https://stadtmarketing-lehrte.de/streuobstwiese/29 permanent;
+
+rewrite ^/1551$ https://stadtmarketing-lehrte.de/streuobstwiese/56 permanent;
+
+rewrite ^/streuobstwiese/i14/$ https://stadtmarketing-lehrte.de/streuobstwiese/56 permanent;
+
+rewrite ^/1552$ https://stadtmarketing-lehrte.de/streuobstwiese/54 permanent;
+
+rewrite ^/streuobstwiese/j1/$ https://stadtmarketing-lehrte.de/streuobstwiese/54 permanent;
+
+rewrite ^/1553$ https://stadtmarketing-lehrte.de/streuobstwiese/30 permanent;
+
+rewrite ^/streuobstwiese/j2/$ https://stadtmarketing-lehrte.de/streuobstwiese/30 permanent;
+
+rewrite ^/1554$ https://stadtmarketing-lehrte.de/streuobstwiese/30 permanent;
+
+rewrite ^/streuobstwiese/j3/$ https://stadtmarketing-lehrte.de/streuobstwiese/30 permanent;
+
+rewrite ^/1555$ https://stadtmarketing-lehrte.de/streuobstwiese/30 permanent;
+
+rewrite ^/streuobstwiese/j4/$ https://stadtmarketing-lehrte.de/streuobstwiese/30 permanent;
+
+rewrite ^/1556$ https://stadtmarketing-lehrte.de/streuobstwiese/9 permanent;
+
+rewrite ^/streuobstwiese/j5/$ https://stadtmarketing-lehrte.de/streuobstwiese/9 permanent;
+
+rewrite ^/1557$ https://stadtmarketing-lehrte.de/streuobstwiese/47 permanent;
+
+rewrite ^/streuobstwiese/j6/$ https://stadtmarketing-lehrte.de/streuobstwiese/47 permanent;
+
+rewrite ^/1558$ https://stadtmarketing-lehrte.de/streuobstwiese/9 permanent;
+
+rewrite ^/streuobstwiese/j7/$ https://stadtmarketing-lehrte.de/streuobstwiese/9 permanent;
+
+rewrite ^/1559$ https://stadtmarketing-lehrte.de/streuobstwiese/60 permanent;
+
+rewrite ^/streuobstwiese/j8/$ https://stadtmarketing-lehrte.de/streuobstwiese/60 permanent;
+
+rewrite ^/1560$ https://stadtmarketing-lehrte.de/streuobstwiese/60 permanent;
+
+rewrite ^/streuobstwiese/j9/$ https://stadtmarketing-lehrte.de/streuobstwiese/60 permanent;
+
+rewrite ^/1561$ https://stadtmarketing-lehrte.de/streuobstwiese/60 permanent;
+
+rewrite ^/streuobstwiese/j10/$ https://stadtmarketing-lehrte.de/streuobstwiese/60 permanent;
+
+rewrite ^/1562$ https://stadtmarketing-lehrte.de/streuobstwiese/23 permanent;
+
+rewrite ^/streuobstwiese/j11/$ https://stadtmarketing-lehrte.de/streuobstwiese/23 permanent;
+
+rewrite ^/1563$ https://stadtmarketing-lehrte.de/streuobstwiese/23 permanent;
+
+rewrite ^/streuobstwiese/j12/$ https://stadtmarketing-lehrte.de/streuobstwiese/23 permanent;
+
+rewrite ^/1564$ https://stadtmarketing-lehrte.de/streuobstwiese/23 permanent;
+
+rewrite ^/streuobstwiese/j13/$ https://stadtmarketing-lehrte.de/streuobstwiese/23 permanent;
+
+rewrite ^/1565$ https://stadtmarketing-lehrte.de/streuobstwiese/57 permanent;
+
+rewrite ^/streuobstwiese/k1/$ https://stadtmarketing-lehrte.de/streuobstwiese/57 permanent;
+
+rewrite ^/1566$ https://stadtmarketing-lehrte.de/streuobstwiese/18 permanent;
+
+rewrite ^/streuobstwiese/k2/$ https://stadtmarketing-lehrte.de/streuobstwiese/18 permanent;
+
+rewrite ^/1567$ https://stadtmarketing-lehrte.de/streuobstwiese/53 permanent;
+
+rewrite ^/streuobstwiese/k3/$ https://stadtmarketing-lehrte.de/streuobstwiese/53 permanent;
+
+rewrite ^/1568$ https://stadtmarketing-lehrte.de/streuobstwiese/53 permanent;
+
+rewrite ^/streuobstwiese/k4/$ https://stadtmarketing-lehrte.de/streuobstwiese/53 permanent;
+
+rewrite ^/1569$ https://stadtmarketing-lehrte.de/streuobstwiese/53 permanent;
+
+rewrite ^/streuobstwiese/k5/$ https://stadtmarketing-lehrte.de/streuobstwiese/53 permanent;
+
+rewrite ^/1570$ https://stadtmarketing-lehrte.de/streuobstwiese/53 permanent;
+
+rewrite ^/streuobstwiese/k6/$ https://stadtmarketing-lehrte.de/streuobstwiese/53 permanent;
+
+rewrite ^/1571$ https://stadtmarketing-lehrte.de/streuobstwiese/53 permanent;
+
+rewrite ^/streuobstwiese/k7/$ https://stadtmarketing-lehrte.de/streuobstwiese/53 permanent;
+
+rewrite ^/1572$ https://stadtmarketing-lehrte.de/streuobstwiese/48 permanent;
+
+rewrite ^/streuobstwiese/k8/$ https://stadtmarketing-lehrte.de/streuobstwiese/48 permanent;
+
+rewrite ^/1573$ https://stadtmarketing-lehrte.de/streuobstwiese/48 permanent;
+
+rewrite ^/streuobstwiese/k9/$ https://stadtmarketing-lehrte.de/streuobstwiese/48 permanent;
+
+rewrite ^/1574$ https://stadtmarketing-lehrte.de/streuobstwiese/48 permanent;
+
+rewrite ^/streuobstwiese/k10/$ https://stadtmarketing-lehrte.de/streuobstwiese/48 permanent;
+
+rewrite ^/1575$ https://stadtmarketing-lehrte.de/streuobstwiese/45 permanent;
+
+rewrite ^/streuobstwiese/k11/$ https://stadtmarketing-lehrte.de/streuobstwiese/45 permanent;
+
+rewrite ^/1576$ https://stadtmarketing-lehrte.de/streuobstwiese/45 permanent;
+
+rewrite ^/streuobstwiese/k12/$ https://stadtmarketing-lehrte.de/streuobstwiese/45 permanent;
+
+rewrite ^/1577$ https://stadtmarketing-lehrte.de/streuobstwiese/45 permanent;
+
+rewrite ^/streuobstwiese/k13/$ https://stadtmarketing-lehrte.de/streuobstwiese/45 permanent;
+
+rewrite ^/1579$ https://stadtmarketing-lehrte.de/streuobstwiese/18 permanent;
+
+rewrite ^/streuobstwiese/l2/$ https://stadtmarketing-lehrte.de/streuobstwiese/18 permanent;
+
+rewrite ^/1580$ https://stadtmarketing-lehrte.de/streuobstwiese/8 permanent;
+
+rewrite ^/streuobstwiese/l3/$ https://stadtmarketing-lehrte.de/streuobstwiese/8 permanent;
+
+rewrite ^/1581$ https://stadtmarketing-lehrte.de/streuobstwiese/8 permanent;
+
+rewrite ^/streuobstwiese/l4/$ https://stadtmarketing-lehrte.de/streuobstwiese/8 permanent;
+
+rewrite ^/1582$ https://stadtmarketing-lehrte.de/streuobstwiese/8 permanent;
+
+rewrite ^/streuobstwiese/l5/$ https://stadtmarketing-lehrte.de/streuobstwiese/8 permanent;
+
+rewrite ^/1583$ https://stadtmarketing-lehrte.de/streuobstwiese/8 permanent;
+
+rewrite ^/streuobstwiese/l6/$ https://stadtmarketing-lehrte.de/streuobstwiese/8 permanent;
+
+rewrite ^/1584$ https://stadtmarketing-lehrte.de/streuobstwiese/8 permanent;
+
+rewrite ^/streuobstwiese/l7/$ https://stadtmarketing-lehrte.de/streuobstwiese/8 permanent;
+
+rewrite ^/1585$ https://stadtmarketing-lehrte.de/streuobstwiese/39 permanent;
+
+rewrite ^/streuobstwiese/l8/$ https://stadtmarketing-lehrte.de/streuobstwiese/39 permanent;
+
+rewrite ^/1586$ https://stadtmarketing-lehrte.de/streuobstwiese/39 permanent;
+
+rewrite ^/streuobstwiese/l9/$ https://stadtmarketing-lehrte.de/streuobstwiese/39 permanent;
+
+rewrite ^/1587$ https://stadtmarketing-lehrte.de/streuobstwiese/39 permanent;
+
+rewrite ^/streuobstwiese/l10/$ https://stadtmarketing-lehrte.de/streuobstwiese/39 permanent;
+
+rewrite ^/1588$ https://stadtmarketing-lehrte.de/streuobstwiese/39 permanent;
+
+rewrite ^/streuobstwiese/l11/$ https://stadtmarketing-lehrte.de/streuobstwiese/39 permanent;
+
+rewrite ^/1589$ https://stadtmarketing-lehrte.de/streuobstwiese/39 permanent;
+
+rewrite ^/streuobstwiese/l12/$ https://stadtmarketing-lehrte.de/streuobstwiese/39 permanent;
+
+rewrite ^/1591$ https://stadtmarketing-lehrte.de/streuobstwiese/4 permanent;
+
+rewrite ^/streuobstwiese/m1/$ https://stadtmarketing-lehrte.de/streuobstwiese/4 permanent;
+
+rewrite ^/1592$ https://stadtmarketing-lehrte.de/streuobstwiese/18 permanent;
+
+rewrite ^/streuobstwiese/m2/$ https://stadtmarketing-lehrte.de/streuobstwiese/18 permanent;
+
+rewrite ^/1593$ https://stadtmarketing-lehrte.de/streuobstwiese/28 permanent;
+
+rewrite ^/streuobstwiese/m3/$ https://stadtmarketing-lehrte.de/streuobstwiese/28 permanent;
+
+rewrite ^/1594$ https://stadtmarketing-lehrte.de/streuobstwiese/37 permanent;
+
+rewrite ^/streuobstwiese/m4/$ https://stadtmarketing-lehrte.de/streuobstwiese/37 permanent;
+
+rewrite ^/1595$ https://stadtmarketing-lehrte.de/streuobstwiese/34 permanent;
+
+rewrite ^/streuobstwiese/m5/$ https://stadtmarketing-lehrte.de/streuobstwiese/34 permanent;
+
+rewrite ^/1596$ https://stadtmarketing-lehrte.de/streuobstwiese/34 permanent;
+
+rewrite ^/streuobstwiese/m6/$ https://stadtmarketing-lehrte.de/streuobstwiese/34 permanent;
+
+rewrite ^/1597$ https://stadtmarketing-lehrte.de/streuobstwiese/32 permanent;
+
+rewrite ^/streuobstwiese/m7/$ https://stadtmarketing-lehrte.de/streuobstwiese/32 permanent;
+
+rewrite ^/1598$ https://stadtmarketing-lehrte.de/streuobstwiese/32 permanent;
+
+rewrite ^/streuobstwiese/m8/$ https://stadtmarketing-lehrte.de/streuobstwiese/32 permanent;
+
+rewrite ^/1599$ https://stadtmarketing-lehrte.de/streuobstwiese/30 permanent;
+
+rewrite ^/streuobstwiese/m9/$ https://stadtmarketing-lehrte.de/streuobstwiese/30 permanent;
+
+rewrite ^/1600$ https://stadtmarketing-lehrte.de/streuobstwiese/30 permanent;
+
+rewrite ^/streuobstwiese/m10/$ https://stadtmarketing-lehrte.de/streuobstwiese/30 permanent;
+
+rewrite ^/1601$ https://stadtmarketing-lehrte.de/streuobstwiese/29 permanent;
+
+rewrite ^/streuobstwiese/m11/$ https://stadtmarketing-lehrte.de/streuobstwiese/29 permanent;
+
+rewrite ^/2442$ https://stadtmarketing-lehrte.de/streuobstwiese/18 permanent;
+
+rewrite ^/streuobstwiese/m12/$ https://stadtmarketing-lehrte.de/streuobstwiese/18 permanent;
+
+rewrite ^/1602$ https://stadtmarketing-lehrte.de/streuobstwiese/18 permanent;
+
+rewrite ^/streuobstwiese/n1/$ https://stadtmarketing-lehrte.de/streuobstwiese/18 permanent;
+
+rewrite ^/1603$ https://stadtmarketing-lehrte.de/streuobstwiese/18 permanent;
+
+rewrite ^/streuobstwiese/n2/$ https://stadtmarketing-lehrte.de/streuobstwiese/18 permanent;
+
+rewrite ^/1604$ https://stadtmarketing-lehrte.de/streuobstwiese/28 permanent;
+
+rewrite ^/streuobstwiese/n3/$ https://stadtmarketing-lehrte.de/streuobstwiese/28 permanent;
+
+rewrite ^/1605$ https://stadtmarketing-lehrte.de/streuobstwiese/27 permanent;
+
+rewrite ^/streuobstwiese/n4/$ https://stadtmarketing-lehrte.de/streuobstwiese/27 permanent;
+
+rewrite ^/1606$ https://stadtmarketing-lehrte.de/streuobstwiese/27 permanent;
+
+rewrite ^/streuobstwiese/n5/$ https://stadtmarketing-lehrte.de/streuobstwiese/27 permanent;
+
+rewrite ^/1607$ https://stadtmarketing-lehrte.de/streuobstwiese/25 permanent;
+
+rewrite ^/streuobstwiese/n6/$ https://stadtmarketing-lehrte.de/streuobstwiese/25 permanent;
+
+rewrite ^/1608$ https://stadtmarketing-lehrte.de/streuobstwiese/25 permanent;
+
+rewrite ^/streuobstwiese/n7/$ https://stadtmarketing-lehrte.de/streuobstwiese/25 permanent;
+
+rewrite ^/1609$ https://stadtmarketing-lehrte.de/streuobstwiese/18 permanent;
+
+rewrite ^/streuobstwiese/o1/$ https://stadtmarketing-lehrte.de/streuobstwiese/18 permanent;
+
+rewrite ^/1610$ https://stadtmarketing-lehrte.de/streuobstwiese/22 permanent;
+
+rewrite ^/streuobstwiese/o2/$ https://stadtmarketing-lehrte.de/streuobstwiese/22 permanent;
+
+rewrite ^/1611$ https://stadtmarketing-lehrte.de/streuobstwiese/22 permanent;
+
+rewrite ^/streuobstwiese/o3/$ https://stadtmarketing-lehrte.de/streuobstwiese/22 permanent;
+
+rewrite ^/1612$ https://stadtmarketing-lehrte.de/streuobstwiese/22 permanent;
+
+rewrite ^/streuobstwiese/o4/$ https://stadtmarketing-lehrte.de/streuobstwiese/22 permanent;
+
+rewrite ^/2447$ https://stadtmarketing-lehrte.de/streuobstwiese/18 permanent;
+
+rewrite ^/streuobstwiese/streuobstwiese-175/$ https://stadtmarketing-lehrte.de/streuobstwiese/18 permanent;
+
+rewrite ^/1613$ https://stadtmarketing-lehrte.de/streuobstwiese/14 permanent;
+
+rewrite ^/streuobstwiese/p1/$ https://stadtmarketing-lehrte.de/streuobstwiese/14 permanent;
+
+rewrite ^/1614$ https://stadtmarketing-lehrte.de/streuobstwiese/9 permanent;
+
+rewrite ^/streuobstwiese/p2/$ https://stadtmarketing-lehrte.de/streuobstwiese/9 permanent;
+
+rewrite ^/1615$ https://stadtmarketing-lehrte.de/streuobstwiese/8 permanent;
+
+rewrite ^/streuobstwiese/o5/$ https://stadtmarketing-lehrte.de/streuobstwiese/8 permanent;
+
+rewrite ^/1616$ https://stadtmarketing-lehrte.de/streuobstwiese/40 permanent;
+
+rewrite ^/streuobstwiese/p4/$ https://stadtmarketing-lehrte.de/streuobstwiese/40 permanent;
+

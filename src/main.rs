@@ -5,7 +5,6 @@ use std::fs::OpenOptions;
 use std::io::Write;
 use std::{env, fs}; // Import the `blocking` module from `reqwest`
 fn main() {
-    println!("Hello, world!");
     let args: Vec<String> = env::args().collect();
     // Überprüfe, ob genügend Argumente übergeben wurden
     if args.len() < 2 {
@@ -23,8 +22,9 @@ fn main() {
     File::create("result.txt").expect("Should have been able to create the file");
 
     let contents = fs::read_to_string(file_path).expect("Should have been able to read the file");
-    let lines = contents.lines();
+    let lines = contents.split(";");
     for line in lines {
+        println!("current line {}", line);
         match extract_url(line) {
             Some(url) => {
                 println!("URL found: {}", url);
@@ -37,7 +37,7 @@ fn main() {
                                 println!("ID: {}", id);
                                 let og = extract_og_url(line);
                                 println!("og_url: {}", &og);
-                                write_to_file(og, &id.to_string(), &category).unwrap();
+                                write_to_file(og, &id.to_string(), &category, file_path).unwrap();
                             }
 
                             None => println!("No ID found"),
@@ -84,11 +84,9 @@ fn extract_link_components(link: &str) -> Option<(String, String)> {
 }
 
 fn get_id(hauptseite: &str, title: &str) -> Option<usize> {
-    let url = "https://stadtmarketing-lehrte.de/cms/api/streuobstwiese-beitraege?filters[VorschauTitel][$eqi]=Kaiser%20Wilhelm&fields[0]=id";
-
     let composed_url = format!(
         "https://stadtmarketing-lehrte.de/cms/api/{}?filters[VorschauTitel][$eqi]={}&fields[0]=id",
-        hauptseite, title
+        "sehenswuerdigkeiten-beitraege", title
     );
     println!("Composed URL: {}", composed_url);
 
@@ -113,9 +111,9 @@ fn get_id(hauptseite: &str, title: &str) -> Option<usize> {
                     None => return Some(99999),
                 }
             }
-            Err(e) => Some(99999),
+            Err(_) => Some(99999),
         },
-        Err(e) => None,
+        Err(_) => None,
     }
 }
 
@@ -124,14 +122,21 @@ fn extract_og_url(line: &str) -> &str {
     return splitted[1];
 }
 
-fn write_to_file(og: &str, id: &str, category: &str) -> std::io::Result<()> {
+fn write_to_file(og: &str, id: &str, category: &str, file_name: &str) -> std::io::Result<()> {
+    let name = ["result_", file_name].join("");
     let mut file = OpenOptions::new()
         .write(true)
         .append(true)
         .create(true)
-        .open("result.txt")?;
+        .open(name)?;
 
-    writeln!(file, "{} {}/{}", og, category, id)?;
+    let n: Vec<&str> = category.split("-beitraege").collect();
+
+    writeln!(
+        file,
+        "rewrite {} {}/{}/{} permanent;\n",
+        og, "https://stadtmarketing-lehrte.de", n[0], id
+    )?;
 
     Ok(())
 }

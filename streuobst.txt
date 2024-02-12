@@ -62,8 +62,8 @@ rewrite ^/1475$ https://stadtmarketing-lehrte.de/streuobstwiese/Signe%20Tillisch
 rewrite ^/streuobstwiese/d4/$ https://stadtmarketing-lehrte.de/streuobstwiese/Signe%20Tillisch permanent;
 rewrite ^/1476$ https://stadtmarketing-lehrte.de/streuobstwiese/Goldparm%C3%A4ne permanent;
 rewrite ^/streuobstwiese/d5/$ https://stadtmarketing-lehrte.de/streuobstwiese/Goldparm%C3%A4ne permanent;
-rewrite ^/1477$ https://stadtmarketing-lehrte.de/streuobstwiese/Jakob%20Lebel permanent;
-rewrite ^/streuobstwiese/d6/$ https://stadtmarketing-lehrte.de/streuobstwiese/Jakob%20Lebel permanent;
+rewrite ^/1477$ https://stadtmarketing-lehrte.de/Streuobstwiese/Jakob%20Lebel permanent;
+rewrite ^/streuobstwiese/d6/$ https://stadtmarketing-lehrte.de/Streuobstwiese/Jakob%20Lebel permanent;
 rewrite ^/1478$ https://stadtmarketing-lehrte.de/streuobstwiese/Williams%20Christbirne permanent;
 rewrite ^/streuobstwiese/d7/$ https://stadtmarketing-lehrte.de/streuobstwiese/Williams%20Christbirne permanent;
 rewrite ^/1479$ https://stadtmarketing-lehrte.de/streuobstwiese/K%C3%B6stliche%20von%20Charneu permanent;
@@ -138,10 +138,10 @@ rewrite ^/1513$ https://stadtmarketing-lehrte.de/streuobstwiese/Freiherr%20von%2
 rewrite ^/streuobstwiese/g2/$ https://stadtmarketing-lehrte.de/streuobstwiese/Freiherr%20von%20Berlepsch permanent;
 rewrite ^/1514$ https://stadtmarketing-lehrte.de/streuobstwiese/Freiherr%20von%20Berlepsch permanent;
 rewrite ^/streuobstwiese/g3/$ https://stadtmarketing-lehrte.de/streuobstwiese/Freiherr%20von%20Berlepsch permanent;
-rewrite ^/1515$ https://stadtmarketing-lehrte.de/streuobstwiese/Gute%20Luise%20von%20%20Avranches permanent;
-rewrite ^/streuobstwiese/g4/$ https://stadtmarketing-lehrte.de/streuobstwiese/Gute%20Luise%20von%20%20Avranches permanent;
-rewrite ^/1516$ https://stadtmarketing-lehrte.de/streuobstwiese/Gute%20Luise%20von%20%20Avranches permanent;
-rewrite ^/streuobstwiese/g5/$ https://stadtmarketing-lehrte.de/streuobstwiese/Gute%20Luise%20von%20%20Avranches permanent;
+rewrite ^/1515$ https://stadtmarketing-lehrte.de/streuobstwiese/Gute%20Luise%20von%20Avranches permanent;
+rewrite ^/streuobstwiese/g4/$ https://stadtmarketing-lehrte.de/streuobstwiese/Gute%20Luise%20von%20Avranches permanent;
+rewrite ^/1516$ https://stadtmarketing-lehrte.de/streuobstwiese/Gute%20Luise%20von%20Avranches permanent;
+rewrite ^/streuobstwiese/g5/$ https://stadtmarketing-lehrte.de/streuobstwiese/Gute%20Luise%20von%20Avranches permanent;
 rewrite ^/1517$ https://stadtmarketing-lehrte.de/streuobstwiese/Gute%20Luise%20von%20Avranches permanent;
 rewrite ^/streuobstwiese/g6/$ https://stadtmarketing-lehrte.de/streuobstwiese/Gute%20Luise%20von%20Avranches permanent;
 rewrite ^/1518$ https://stadtmarketing-lehrte.de/streuobstwiese/Clapps%20Liebling permanent;
@@ -266,8 +266,6 @@ rewrite ^/1576$ https://stadtmarketing-lehrte.de/streuobstwiese/Holsteiner%20Cox
 rewrite ^/streuobstwiese/k12/$ https://stadtmarketing-lehrte.de/streuobstwiese/Holsteiner%20Cox permanent;
 rewrite ^/1577$ https://stadtmarketing-lehrte.de/streuobstwiese/Holsteiner%20Cox permanent;
 rewrite ^/streuobstwiese/k13/$ https://stadtmarketing-lehrte.de/streuobstwiese/Holsteiner%20Cox permanent;
-rewrite ^/1578$ https://stadtmarketing-lehrte.de/streuobstwiese/Apfelquitte permanent;
-rewrite ^/streuobstwiese/l1/$ https://stadtmarketing-lehrte.de/streuobstwiese/Apfelquitte permanent;
 rewrite ^/1579$ https://stadtmarketing-lehrte.de/streuobstwiese/Walnuss%20Juglans%20Regia permanent;
 rewrite ^/streuobstwiese/l2/$ https://stadtmarketing-lehrte.de/streuobstwiese/Walnuss%20Juglans%20Regia permanent;
 rewrite ^/1580$ https://stadtmarketing-lehrte.de/streuobstwiese/Kaiser%20Wilhelm permanent;
@@ -290,8 +288,6 @@ rewrite ^/1588$ https://stadtmarketing-lehrte.de/streuobstwiese/Grahams%20Jubil%
 rewrite ^/streuobstwiese/l11/$ https://stadtmarketing-lehrte.de/streuobstwiese/Grahams%20Jubil%C3%A4umsapfel permanent;
 rewrite ^/1589$ https://stadtmarketing-lehrte.de/streuobstwiese/Grahams%20Jubil%C3%A4umsapfel permanent;
 rewrite ^/streuobstwiese/l12/$ https://stadtmarketing-lehrte.de/streuobstwiese/Grahams%20Jubil%C3%A4umsapfel permanent;
-rewrite ^/1590$ https://stadtmarketing-lehrte.de/streuobstwiese/Goldrenette%20von%20Blenheim permanent;
-rewrite ^/streuobstwiese/l13/$ https://stadtmarketing-lehrte.de/streuobstwiese/Goldrenette%20von%20Blenheim permanent;
 rewrite ^/1591$ https://stadtmarketing-lehrte.de/streuobstwiese/Melrose permanent;
 rewrite ^/streuobstwiese/m1/$ https://stadtmarketing-lehrte.de/streuobstwiese/Melrose permanent;
 rewrite ^/1592$ https://stadtmarketing-lehrte.de/streuobstwiese/Walnuss%20Juglans%20Regia permanent;
@@ -346,5 +342,5 @@ rewrite ^/1614$ https://stadtmarketing-lehrte.de/streuobstwiese/Sch%C3%B6ner%20v
 rewrite ^/streuobstwiese/p2/$ https://stadtmarketing-lehrte.de/streuobstwiese/Sch%C3%B6ner%20von%20Nordhausen permanent;
 rewrite ^/1615$ https://stadtmarketing-lehrte.de/streuobstwiese/Kaiser%20Wilhelm permanent;
 rewrite ^/streuobstwiese/o5/$ https://stadtmarketing-lehrte.de/streuobstwiese/Kaiser%20Wilhelm permanent;
-rewrite ^/1616$ https://stadtmarketing-lehrte.de/streuobstwiese/Jacob%20Lebel permanent;
-rewrite ^/streuobstwiese/p4/$ https://stadtmarketing-lehrte.de/streuobstwiese/Jacob%20Lebel permanent;
+rewrite ^/1616$ https://stadtmarketing-lehrte.de/streuobstwiese/Jakob%20Lebel permanent;
+rewrite ^/streuobstwiese/p4/$ https://stadtmarketing-lehrte.de/streuobstwiese/Jakob%20Lebel permanent;

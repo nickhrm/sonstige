@@ -1,0 +1,28 @@
+rewrite ^/1082$ https://stadtmarketing-lehrte.de/Stolpersteine/10 permanent;
+
+rewrite ^/stolpersteine/stolperstein-1/$ https://stadtmarketing-lehrte.de/Stolpersteine/10 permanent;
+
+rewrite ^/1083$ https://stadtmarketing-lehrte.de/Stolpersteine/11 permanent;
+
+rewrite ^/stolpersteine/stolperstein-2/$ https://stadtmarketing-lehrte.de/Stolpersteine/11 permanent;
+
+rewrite ^/1084$ https://stadtmarketing-lehrte.de/Stolpersteine/12 permanent;
+
+rewrite ^/stolpersteine/stolperstein-3/$ https://stadtmarketing-lehrte.de/Stolpersteine/12 permanent;
+
+rewrite ^/1085$ https://stadtmarketing-lehrte.de/Stolpersteine/13 permanent;
+
+rewrite ^/stolpersteine/stolperstein-4/$ https://stadtmarketing-lehrte.de/Stolpersteine/13 permanent;
+
+rewrite ^/1086$ https://stadtmarketing-lehrte.de/Stolpersteine/14 permanent;
+
+rewrite ^/stolpersteine/stolperstein-5/$ https://stadtmarketing-lehrte.de/Stolpersteine/14 permanent;
+
+rewrite ^/1087$ https://stadtmarketing-lehrte.de/Stolpersteine/15 permanent;
+
+rewrite ^/stolpersteine/stolperstein-6/$ https://stadtmarketing-lehrte.de/Stolpersteine/15 permanent;
+
+rewrite ^/1088$ https://stadtmarketing-lehrte.de/Stolpersteine/16 permanent;
+
+rewrite ^/stolpersteine/stolperstein-7/$ https://stadtmarketing-lehrte.de/Stolpersteine/16 permanent;
+

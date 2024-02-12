@@ -1,0 +1,44 @@
+rewrite ^/1335$ https://stadtmarketing-lehrte.de/Ackerlehrpfad/2 permanent;
+
+rewrite ^/ackerlehrpfad/ackerlehrpfad-1/$ https://stadtmarketing-lehrte.de/Ackerlehrpfad/2 permanent;
+
+rewrite ^/1337$ https://stadtmarketing-lehrte.de/Ackerlehrpfad/3 permanent;
+
+rewrite ^/ackerlehrpfad/ackerlehrpfad-3/$ https://stadtmarketing-lehrte.de/Ackerlehrpfad/3 permanent;
+
+rewrite ^/1338$ https://stadtmarketing-lehrte.de/Ackerlehrpfad/4 permanent;
+
+rewrite ^/ackerlehrpfad/ackerlehrpfad-4/$ https://stadtmarketing-lehrte.de/Ackerlehrpfad/4 permanent;
+
+rewrite ^/1339$ https://stadtmarketing-lehrte.de/Ackerlehrpfad/8 permanent;
+
+rewrite ^/ackerlehrpfad/ackerlehrpfad-5/$ https://stadtmarketing-lehrte.de/Ackerlehrpfad/8 permanent;
+
+rewrite ^/1341$ https://stadtmarketing-lehrte.de/Ackerlehrpfad/11 permanent;
+
+rewrite ^/ackerlehrpfad/ackerlehrpfad-7/$ https://stadtmarketing-lehrte.de/Ackerlehrpfad/11 permanent;
+
+rewrite ^/1343$ https://stadtmarketing-lehrte.de/Ackerlehrpfad/9 permanent;
+
+rewrite ^/ackerlehrpfad/ackerlehrpfad-9/$ https://stadtmarketing-lehrte.de/Ackerlehrpfad/9 permanent;
+
+rewrite ^/1345$ https://stadtmarketing-lehrte.de/Ackerlehrpfad/10 permanent;
+
+rewrite ^/ackerlehrpfad/ackerlehrpfad-11/$ https://stadtmarketing-lehrte.de/Ackerlehrpfad/10 permanent;
+
+rewrite ^/1348$ https://stadtmarketing-lehrte.de/Ackerlehrpfad/7 permanent;
+
+rewrite ^/ackerlehrpfad/ackerlehrpfad-14/$ https://stadtmarketing-lehrte.de/Ackerlehrpfad/7 permanent;
+
+rewrite ^/1349$ https://stadtmarketing-lehrte.de/Ackerlehrpfad/6 permanent;
+
+rewrite ^/ackerlehrpfad/ackerlehrpfad-15/$ https://stadtmarketing-lehrte.de/Ackerlehrpfad/6 permanent;
+
+rewrite ^/1357$ https://stadtmarketing-lehrte.de/Ackerlehrpfad/9 permanent;
+
+rewrite ^/ackerlehrpfad/ackerlehrpfad-23/$ https://stadtmarketing-lehrte.de/Ackerlehrpfad/9 permanent;
+
+rewrite ^/1359$ https://stadtmarketing-lehrte.de/Ackerlehrpfad/5 permanent;
+
+rewrite ^/ackerlehrpfad/ackerlehrpfad-25/$ https://stadtmarketing-lehrte.de/Ackerlehrpfad/5 permanent;
+

@@ -1,0 +1,246 @@
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-92/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/144 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-81/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/143 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-80/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/142 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-86/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/141 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-87/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/140 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-88/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/139 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-89/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/138 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-90/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/137 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-93/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/135 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-94/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/134 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-95/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/133 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-20/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/132 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-21/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/131 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-22/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/130 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-23/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/129 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-24/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/128 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-25/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/127 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-26/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/126 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-27/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/125 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-28/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/124 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-29/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/123 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-30/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/122 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-31/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/121 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-32/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/120 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-33/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/119 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-34/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/118 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-35/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/117 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-85/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/116 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-36/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/115 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-38/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/114 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-39/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/113 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-40/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/112 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-41/$ https://stadtmarketing-lehrte.de/Sehensw%C3%BCrdigkeiten/111 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-42/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/110 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-43/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/109 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-44/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/108 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-45/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/107 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-46/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/106 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-47/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/105 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-48/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/104 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-49/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/103 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-50/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/102 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-51/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/101 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-52/$ https://stadtmarketing-lehrte.de/Sehensw%C3%BCrdigkeiten/100 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-53/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/99 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-54/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/98 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-55/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/97 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-56/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/96 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-57/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/95 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-58/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/94 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-59/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/93 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-7/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/92 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-4/$ https://stadtmarketing-lehrte.de/Sehensw%C3%BCrdigkeiten/91 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-6/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/90 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-5/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/89 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-8/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/88 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-9/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/87 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-10/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/86 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-11/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/85 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-60/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/84 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-61/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/83 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-62/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/82 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-63/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/81 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-64/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/80 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-65/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/79 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-66/$ https://stadtmarketing-lehrte.de/Sehensw%C3%BCrdigkeiten/78 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-67/$ https://stadtmarketing-lehrte.de/Sehensw%C3%BCrdigkeiten/77 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-79/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/72 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-68/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/76 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-69/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/75 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-70/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/74 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-82/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/73 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-84/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/145 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-71/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/71 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-72/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/70 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-18/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/69 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-1/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/68 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-2/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/67 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-3/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/66 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-12/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/65 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-13/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/64 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-14/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/63 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-16/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/62 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-17/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/61 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-15/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/60 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-19/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/59 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-37/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/58 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-73/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/57 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-74/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/56 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-75/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/55 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-76/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/54 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-77/$ https://stadtmarketing-lehrte.de/Sehensw%C3%BCrdigkeiten/53 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-78/$ https://stadtmarketing-lehrte.de/Sehensw%C3%BCrdigkeiten/52 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-96/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/51 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-97/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/50 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-98/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/49 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-99/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/48 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-127/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/47 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-100/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/46 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-102/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/45 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-103/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/44 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-104/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/43 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-105/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/42 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-106/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/41 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-107/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/40 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-108/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/39 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-109/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/38 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-110/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/37 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-111/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/36 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-112/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/35 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-113/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/34 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-114/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/33 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-115/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/32 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-116/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/31 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-117/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/30 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-118/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/29 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-119/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/28 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-120/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/27 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-121/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/26 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-122/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/25 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-123/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/24 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-125/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/23 permanent;
+
+rewrite ^/sehenswuerdigkeiten/sehenswuerdigkeit-126/$ https://stadtmarketing-lehrte.de/Sehenswürdigkeiten/22 permanent;
+
