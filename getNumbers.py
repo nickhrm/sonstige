@@ -53,6 +53,8 @@ def getNumberFromImage():
     myConfig='--psm 11 --oem 3 -c tessedit_char_whitelist=0123456789'
     text = pytesseract.image_to_string(image, config=myConfig)
     text = re.sub("[^0-9]", "", text)
+    if len(text) == 0:
+        text = '0'
     return text
 
 
@@ -68,6 +70,13 @@ def replaceBlackByWhite():
     cv2.imwrite(path, img)
 
 
+def makeImageGrayScale():
+    im_gray = cv2.imread(path, cv2.IMREAD_GRAYSCALE)
+    (thresh, im_bw) = cv2.threshold(im_gray, 128, 255, cv2.THRESH_BINARY | cv2.THRESH_OTSU)
+    im_bw = cv2.threshold(im_gray, thresh, 255, cv2.THRESH_BINARY)[1]
+    cv2.imwrite(path, im_bw)
+
+
 
 def addEntryToCsv(num):
     with open('raw_data.csv', mode='a') as file:
@@ -80,6 +89,7 @@ def addEntryToCsv(num):
 download_image()
 cropImage()
 #replaceBlackByWhite() 
+makeImageGrayScale()
 num = getNumberFromImage()
 print(num)
 addEntryToCsv(num)
