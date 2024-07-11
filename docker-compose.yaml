@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  calculate:
+    build: .
+    volumes:
+      - data:/usr/src/app/data
+    entrypoint: ["sh", "-c", "echo '0 0 * * * /usr/local/bin/python /usr/src/app/calculate.py' > /etc/cron.d/calculate && crontab /etc/cron.d/calculate && cron -f"]
+
+  getnumbers:
+    build: .
+    volumes:
+      - data:/usr/src/app/data
+    entrypoint: ["sh", "-c", "echo '* * * * * /usr/local/bin/python /usr/src/app/getNumbers.py' > /etc/cron.d/getnumbers && crontab /etc/cron.d/getnumbers && cron -f"]
+
+volumes:
+  data:

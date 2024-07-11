@@ -12,6 +12,7 @@ import re
 import numpy as np
 
 
+
 path = 'image.jpeg'
 
 def openImage():
@@ -69,7 +70,7 @@ def replaceBlackByWhite():
 
 
 def addEntryToCsv(num):
-    with open('data.csv', mode='a') as file:
+    with open('raw_data.csv', mode='a') as file:
         writer = csv.writer(file)
         writer.writerow([num, Timestamp.now()])
 
