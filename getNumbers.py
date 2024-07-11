@@ -38,10 +38,10 @@ def download_image():
 #takes image as input and crops it so only the number is visible
 def cropImage():
     image = openImage()
-    y=100
-    x=220
-    h=300
-    w=500
+    y=0
+    x=0
+    h=2000
+    w=1000
     crop = image[y:y+h, x:x+w]
     cv2.imwrite(path, crop)
 
@@ -50,26 +50,18 @@ def cropImage():
 #gets number from croped image
 def getNumberFromImage():
     image = openImage()
-    myConfig='--psm 11 --oem 3 -c tessedit_char_whitelist=0123456789'
+    myConfig='--psm 11 --oem 2 -c tessedit_char_whitelist=0123456789'
     text = pytesseract.image_to_string(image, config=myConfig)
     text = re.sub("[^0-9]", "", text)
-    if len(text) == 0:
-        text = '0'
     return text
 
 
-def replaceBlackByWhite():
-    img = openImage()
-    black_pixels = np.where(
-    (img[:, :, 0] == 0) & 
-    (img[:, :, 1] == 0) & 
-    (img[:, :, 2] == 0)
-    )
-    # set those pixels to white
-    img[black_pixels] = [255, 255, 255]
-    cv2.imwrite(path, img)
+def removeAllButGreen():
+    original_img = openImage()
+    original_img[np.where((original_img!=[64,196,141]).all(axis=2))] = [255,0,255]
+    cv2.imwrite(path, original_img)
 
-
+    
 def makeImageGrayScale():
     im_gray = cv2.imread(path, cv2.IMREAD_GRAYSCALE)
     (thresh, im_bw) = cv2.threshold(im_gray, 128, 255, cv2.THRESH_BINARY | cv2.THRESH_OTSU)
@@ -87,9 +79,9 @@ def addEntryToCsv(num):
 
 
 download_image()
-cropImage()
-#replaceBlackByWhite() 
+removeAllButGreen()
 makeImageGrayScale()
+cropImage()
 num = getNumberFromImage()
 print(num)
 addEntryToCsv(num)
