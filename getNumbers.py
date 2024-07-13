@@ -90,7 +90,7 @@ def expandImage():
 def addEntryToCsv(num):
     if num == "":
         return
-    with open('raw_data.csv', mode='a') as file:
+    with open('./raw_data.csv', mode='a') as file:
         writer = csv.writer(file)
         writer.writerow([Timestamp.now(),num])
 
