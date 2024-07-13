@@ -71,7 +71,7 @@ def makeImageGrayScale():
 #gets number from croped image
 def getNumberFromImage():
     image = openImage()
-    myConfig='--psm 13 --oem 1 -c tessedit_char_whitelist=0123456789'
+    myConfig='--psm 7 --oem 1 -c tessedit_char_whitelist=0123456789'
     text = pytesseract.image_to_string(image, config=myConfig)
     text = re.sub("[^0-9]", "", text)
     return text
