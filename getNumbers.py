@@ -10,7 +10,7 @@ import cv2
 import csv
 import re
 import numpy as np
-
+import os
 
 
 path = 'image.jpeg'
@@ -88,6 +88,7 @@ def expandImage():
     cv2.imwrite(path, image)
 
 def addEntryToCsv(num):
+    os.environ['TZ'] = 'Europe/Berlin'
     if num == "":
         return
     with open('./raw_data.csv', mode='a') as file:
